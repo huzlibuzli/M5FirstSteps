@@ -23,7 +23,7 @@ nachfolgend habe ich dir eine kurze Zusammenfassung aufbereitete, damit du einen
   - Variablen https://docs.m5stack.com/#/en/uiflow/data_structure?id=variables
   - Operatoren https://docs.m5stack.com/#/en/uiflow/data_structure?id=operation
   - Bedingungen, logische Operatoren und Schleifen https://docs.m5stack.com/#/en/uiflow/logic?id=if
-* Mit diesem Rüstzeug kannst du dich dann an die Möglichkeiten der Hardware herantrauen und die Einzelne Aktoren und Sensoren in deinem Code verwenden
+* Mit diesem Rüstzeug kannst du dich dann an die Möglichkeiten der Hardware herantrauen und die einzelne Aktoren und Sensoren in deinem Code verwenden
   - Leds einschalten https://docs.m5stack.com/#/en/uiflow/hardware?id=rgb
   - Taster mit einbeziehen https://docs.m5stack.com/#/en/uiflow/Units?id=button
   - Gyro Sensor auslesen https://docs.m5stack.com/#/en/uiflow/hardware?id=imu

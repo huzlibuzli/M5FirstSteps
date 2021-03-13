@@ -20,7 +20,7 @@ nachfolgend habe ich dir eine kurze Zusammenfassung aufbereitete, damit du einen
 
 ## Programmieren lernen
 
-* Die Grafische Programmieroberfläche ist ein wenig wie ein Programmierpuzzle. Die einzelnen Anknüpfpunkte der Programmbausteine sorgen für eine gewisse logische Abfolge innerhalb eines Programms. Du solltest dich dennoch mit einigen grundlegenden Ideen des Programmierens auseinandersetzen. 
+* Die grafische Programmieroberfläche ist ein wenig wie ein Programmierpuzzle. Die einzelnen Anknüpfpunkte der Programmbausteine sorgen für eine gewisse logische Abfolge innerhalb eines Programms. Du solltest dich dennoch mit einigen grundlegenden Ideen des Programmierens auseinandersetzen. 
 - Variablen https://docs.m5stack.com/#/en/uiflow/data_structure?id=variables
 - Operatoren https://docs.m5stack.com/#/en/uiflow/data_structure?id=operation
 - Bedingungen, logische Operatoren und Schleifen https://docs.m5stack.com/#/en/uiflow/logic?id=if

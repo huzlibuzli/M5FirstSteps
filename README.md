@@ -20,9 +20,9 @@ nachfolgend habe ich dir eine kurze Zusammenfassung aufbereitete, damit du einen
 ## Programmieren lernen
 
 * Die grafische Programmieroberfläche ist ein wenig wie ein Programmierpuzzle. Die einzelnen Anknüpfpunkte der Programmbausteine sorgen für eine gewisse logische Abfolge innerhalb eines Programms. Du solltest dich dennoch mit einigen grundlegenden Ideen des Programmierens auseinandersetzen. 
-- Variablen https://docs.m5stack.com/#/en/uiflow/data_structure?id=variables
-- Operatoren https://docs.m5stack.com/#/en/uiflow/data_structure?id=operation
-- Bedingungen, logische Operatoren und Schleifen https://docs.m5stack.com/#/en/uiflow/logic?id=if
+  - Variablen https://docs.m5stack.com/#/en/uiflow/data_structure?id=variables
+  - Operatoren https://docs.m5stack.com/#/en/uiflow/data_structure?id=operation
+  - Bedingungen, logische Operatoren und Schleifen https://docs.m5stack.com/#/en/uiflow/logic?id=if
 * Mit diesem Rüstzeug kannst du dich dann an die Möglichkeiten der Hardware herantrauen und die Einzelne Aktoren und Sensoren in deinem Code verwenden
   - Leds einschalten https://docs.m5stack.com/#/en/uiflow/hardware?id=rgb
   - Taster mit einbeziehen https://docs.m5stack.com/#/en/uiflow/Units?id=button

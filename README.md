@@ -28,7 +28,7 @@ nachfolgend habe ich dir eine kurze Zusammenfassung aufbereitete, damit du einen
   - Taster mit einbeziehen https://docs.m5stack.com/#/en/uiflow/Units?id=button
   - Gyro Sensor auslesen https://docs.m5stack.com/#/en/uiflow/hardware?id=imu
   - die Bildschirmanzeige verändern usw. https://docs.m5stack.com/#/en/uiflow/ui_simulator?id=ui-elements
-* Du wirst für die Programmierung recht schnell weitere Elemente des Programmierens benötigen, wenn du also die oben genannten verstanden hast geht es hiermit weiter
+* Du wirst für deine Programme recht schnell weitere Elemente benötigen, wenn du also die oben genannten verstanden hast, geht es hiermit weiter
   - Maps und Arrays https://docs.m5stack.com/#/en/uiflow/data_structure?id=array
   - Laden und Speichern von Datenstrukturen (JSON) https://docs.m5stack.com/#/en/uiflow/data_structure?id=json
   - Funktionen https://docs.m5stack.com/#/en/uiflow/logic?id=functions

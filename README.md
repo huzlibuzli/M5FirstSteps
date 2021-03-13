@@ -11,10 +11,9 @@ nachfolgend habe ich dir eine kurze Zusammenfassung aufbereitete, damit du einen
 
 ## So gehts los
 * Du benötigts einen Rechner und ein WLAN mit Internetzugang
-* Der M5Fire ist nach dem UIFlow Quick Start Guide so weit voreingestellt, dass du ihn nur noch bei euch zu Hause fertig eirichten musst.
-* Öffne die Anleitung an dieser Stelle https://docs.m5stack.com/#/en/quick_start/m5core/m5stack_core_get_started_MicroPython?id=ap-hotspot-configuration-wifi
-  - Einrichten des WLAN-Zugangs nach der Anleitung
-  - Umstellen des Programmiermodus auf "Internet Mode" https://docs.m5stack.com/#/en/quick_start/m5core/m5stack_core_get_started_MicroPython?id=ap-hotspot-configuration-wifi
+* Der M5Fire ist nach dem UIFlow Quick Start Guide so weit voreingestellt, dass du ihn nur noch bei euch zu Hause fertig eirichten musst. 
+  - (hab ich schon gemacht) Einrichten des WLAN-Zugangs nach der Anleitung https://docs.m5stack.com/#/en/quick_start/m5core/m5stack_core_get_started_MicroPython?id=ap-hotspot-configuration-wifi
+  - (sollte auch schon gehen) Umstellen des Programmiermodus auf "Internet Mode" https://docs.m5stack.com/#/en/quick_start/m5core/m5stack_core_get_started_MicroPython?id=ap-hotspot-configuration-wifi
   - Öffne das UIFlow Programmierportal https://flow.m5stack.com/ und trage den API-Key ein
   - Dann kannst du starten :)
 
